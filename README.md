@@ -1,6 +1,6 @@
 # Hi 👋, I'm Koyya Lavanya 
 
-![Profile Views](https://komarev.com/ghpvc/?username=/Lavanya-Koyya&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=/Lavanya-Koyya/&label=Profile%20views&color=0e75b6&style=flat)
 
 ## About Me
 
