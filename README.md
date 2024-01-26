@@ -1,12 +1,12 @@
 # Hi 👋, I'm Koyya Lavanya 
 
-![Profile Views](https://komarev.com/ghpvc/?username=/LavanyaKoyya/&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=Lavanya-Koyya&label=Profile%20views&color=0e75b6&style=flat)
 
 ## About Me
 
-- 🔭 I’m currently working on [Real Time Clock](https://github.com//Lavanya-Koyya/Real Time Clock)
+- 🔭 I’m currently working on [Real Time Clock](https://github.com/Lavanya-Koyya/Real%20Time%20Clock)
 - 🌱 I’m currently learning Verilog, Tcl, Perl, Python
-- 👯 I’m looking to collaborate on [Real Time Clock](https://github.com//Lavanya-Koyya/Real Time Clock)
+- 👯 I’m looking to collaborate on [Real Time Clock](https://github.com/Lavanya-Koyya/Real%20Time%20Clock)
 - 📫 How to reach me [lavanyakoyya2001@gmail.com](mailto:lavanyakoyya2001@gmail.com)
 
 ## Connect with me
@@ -19,7 +19,7 @@
 
 ## GitHub Stats
 
-## GitHub Stats and Streak
+### GitHub Stats and Streak
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/?username=Lavanya-Koyya&show_icons=true&locale=en" alt="GitHub Stats" width="45%">
