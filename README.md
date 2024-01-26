@@ -1,17 +1,17 @@
-# Hi 👋, I'm R Santhosh Singh
+# Hi 👋, I'm Koyya Lavanya 
 
-![Profile Views](https://komarev.com/ghpvc/?username=rajputhsanthoshsingh&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=/Lavanya-Koyya&label=Profile%20views&color=0e75b6&style=flat)
 
 ## About Me
 
-- 🔭 I’m currently working on [32-bit-Up-Down-Counter](https://github.com//32-bit-Up-Down-Counter)
+- 🔭 I’m currently working on [Real Time Clock](https://github.com//Lavanya-Koyya/Real Time Clock)
 - 🌱 I’m currently learning Verilog, Tcl, Perl, Python
-- 👯 I’m looking to collaborate on [32-bit-Up-Down-Counter](https://github.com//32-bit-Up-Down-Counter)
+- 👯 I’m looking to collaborate on [Real Time Clock](https://github.com//Lavanya-Koyya/Real Time Clock)
 - 📫 How to reach me [lavanyakoyya2001@gmail.com](mailto:lavanyakoyya2001@gmail.com)
 
 ## Connect with me
 
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="20">](https://www.linkedin.com/in/santhoshrajputh/)
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="20">](https://www.linkedin.com/in/lavanya-koyya/)
 
 ## Languages and Tools
 
@@ -22,13 +22,13 @@
 ## GitHub Stats and Streak
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/?username=rajputhsanthoshsingh&show_icons=true&locale=en" alt="GitHub Stats" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api/?username=Lavanya-Koyya&show_icons=true&locale=en" alt="GitHub Stats" width="45%">
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajputhsanthoshsingh" alt="GitHub Streak" width="45%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lavanya-Koyya" alt="GitHub Streak" width="45%">
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajputhsanthoshsingh&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lavanya-Koyya&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="45%">
 </p>
