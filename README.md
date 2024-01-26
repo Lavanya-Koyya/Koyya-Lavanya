@@ -4,10 +4,10 @@
 
 ## About Me
 
-- 🔭 I’m currently working on [32-bit-Up-Down-Counter](https://github.com/RajputhSanthoshSingh/32-bit-Up-Down-Counter)
+- 🔭 I’m currently working on [32-bit-Up-Down-Counter](https://github.com//32-bit-Up-Down-Counter)
 - 🌱 I’m currently learning Verilog, Tcl, Perl, Python
-- 👯 I’m looking to collaborate on [32-bit-Up-Down-Counter](https://github.com/RajputhSanthoshSingh/32-bit-Up-Down-Counter)
-- 📫 How to reach me [santhoshrajputhsingh@gmail.com](mailto:santhoshrajputhsingh@gmail.com)
+- 👯 I’m looking to collaborate on [32-bit-Up-Down-Counter](https://github.com//32-bit-Up-Down-Counter)
+- 📫 How to reach me [lavanyakoyya2001@gmail.com](mailto:lavanyakoyya2001@gmail.com)
 
 ## Connect with me
 
